@@ -3,4 +3,5 @@
 
 ## Grading Policy
 Homework: 60% (12% each)
+
 Final Project: 40%
